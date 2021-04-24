@@ -8,8 +8,6 @@
 <a href="https://material.angular.io/">Angular Materials</a>
 </p>
 
-## Screenshots
-![untitled-project@2x (1)](https://user-images.githubusercontent.com/31030616/87429546-003eda80-c5f5-11ea-82bb-9d2fa57ecce3.png)
 
 
 
